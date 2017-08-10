@@ -1,0 +1,29 @@
+{
+    "product": [
+        {
+            "id": "春季新品",
+            "images": ["../images/productImg/introduceList/1.jpg"],
+            "str":["短袜外套","针织衫","丝绒美衣","棒球外套","卫衣",
+            "毛衣套装","牛仔外套","针织开衫"]
+        },
+        {
+            "id": "人气热卖",
+            "images": ["../images/productImg/introduceList/2.jpg"],
+            "str":["短袜外套","针织衫","丝绒美衣","棒球外套","卫衣",
+             "毛衣套装","牛仔外套","针织开衫"]
+        },
+        {
+            "id": "买穿百搭",
+            "images": ["../images/productImg/introduceList/3.jpg"],
+            "str":["短袜外套","针织衫","丝绒美衣","棒球外套","卫衣",
+                "毛衣套装","牛仔外套","针织开衫"]
+        },
+        {
+            "id": "潮流推荐",
+            "images": ["../images/productImg/introduceList/4.jpg"],
+            "str":["短袜外套","针织衫","丝绒美衣","棒球外套","卫衣",
+                "毛衣套装","牛仔外套","针织开衫"]
+        }
+       
+    ]
+}
